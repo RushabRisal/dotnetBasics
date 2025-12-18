@@ -1,0 +1,14 @@
+D:\dotnetLearning\methodsInCsharp\bin\Debug\net9.0\methodsInCsharp.exe
+D:\dotnetLearning\methodsInCsharp\bin\Debug\net9.0\methodsInCsharp.deps.json
+D:\dotnetLearning\methodsInCsharp\bin\Debug\net9.0\methodsInCsharp.runtimeconfig.json
+D:\dotnetLearning\methodsInCsharp\bin\Debug\net9.0\methodsInCsharp.dll
+D:\dotnetLearning\methodsInCsharp\bin\Debug\net9.0\methodsInCsharp.pdb
+D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\methodsInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\methodsInCsharp.AssemblyInfoInputs.cache
+D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\methodsInCsharp.AssemblyInfo.cs
+D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\methodsInCsharp.csproj.CoreCompileInputs.cache
+D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\methodsInCsharp.dll
+D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\refint\methodsInCsharp.dll
+D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\methodsInCsharp.pdb
+D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\methodsInCsharp.genruntimeconfig.cache
+D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\ref\methodsInCsharp.dll
