@@ -1,0 +1,15 @@
+D:\dotnetLearning\DiceGame\bin\Debug\net9.0\DiceGame.exe
+D:\dotnetLearning\DiceGame\bin\Debug\net9.0\DiceGame.deps.json
+D:\dotnetLearning\DiceGame\bin\Debug\net9.0\DiceGame.runtimeconfig.json
+D:\dotnetLearning\DiceGame\bin\Debug\net9.0\DiceGame.dll
+D:\dotnetLearning\DiceGame\bin\Debug\net9.0\DiceGame.pdb
+D:\dotnetLearning\DiceGame\obj\Debug\net9.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetLearning\DiceGame\obj\Debug\net9.0\DiceGame.AssemblyInfoInputs.cache
+D:\dotnetLearning\DiceGame\obj\Debug\net9.0\DiceGame.AssemblyInfo.cs
+D:\dotnetLearning\DiceGame\obj\Debug\net9.0\DiceGame.csproj.CoreCompileInputs.cache
+D:\dotnetLearning\DiceGame\obj\Debug\net9.0\DiceGame.sourcelink.json
+D:\dotnetLearning\DiceGame\obj\Debug\net9.0\DiceGame.dll
+D:\dotnetLearning\DiceGame\obj\Debug\net9.0\refint\DiceGame.dll
+D:\dotnetLearning\DiceGame\obj\Debug\net9.0\DiceGame.pdb
+D:\dotnetLearning\DiceGame\obj\Debug\net9.0\DiceGame.genruntimeconfig.cache
+D:\dotnetLearning\DiceGame\obj\Debug\net9.0\ref\DiceGame.dll
