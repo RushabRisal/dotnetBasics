@@ -12,3 +12,4 @@ D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\refint\methodsInCsharp.dll
 D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\methodsInCsharp.pdb
 D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\methodsInCsharp.genruntimeconfig.cache
 D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\ref\methodsInCsharp.dll
+D:\dotnetLearning\methodsInCsharp\obj\Debug\net9.0\methodsInCsharp.sourcelink.json
