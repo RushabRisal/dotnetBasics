@@ -1,0 +1,15 @@
+D:\dotnetLearning\ArraysAndItsMethods\bin\Debug\net9.0\ArraysAndItsMethods.exe
+D:\dotnetLearning\ArraysAndItsMethods\bin\Debug\net9.0\ArraysAndItsMethods.deps.json
+D:\dotnetLearning\ArraysAndItsMethods\bin\Debug\net9.0\ArraysAndItsMethods.runtimeconfig.json
+D:\dotnetLearning\ArraysAndItsMethods\bin\Debug\net9.0\ArraysAndItsMethods.dll
+D:\dotnetLearning\ArraysAndItsMethods\bin\Debug\net9.0\ArraysAndItsMethods.pdb
+D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ArraysAndItsMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ArraysAndItsMethods.AssemblyInfoInputs.cache
+D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ArraysAndItsMethods.AssemblyInfo.cs
+D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ArraysAndItsMethods.csproj.CoreCompileInputs.cache
+D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ArraysAndItsMethods.sourcelink.json
+D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ArraysAndItsMethods.dll
+D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\refint\ArraysAndItsMethods.dll
+D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ArraysAndItsMethods.pdb
+D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ArraysAndItsMethods.genruntimeconfig.cache
+D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ref\ArraysAndItsMethods.dll
