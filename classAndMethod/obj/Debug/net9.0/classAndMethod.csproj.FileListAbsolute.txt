@@ -1,0 +1,15 @@
+D:\dotnetLearning\classAndMethod\obj\Debug\net9.0\classAndMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetLearning\classAndMethod\obj\Debug\net9.0\classAndMethod.AssemblyInfoInputs.cache
+D:\dotnetLearning\classAndMethod\obj\Debug\net9.0\classAndMethod.AssemblyInfo.cs
+D:\dotnetLearning\classAndMethod\obj\Debug\net9.0\classAndMethod.csproj.CoreCompileInputs.cache
+D:\dotnetLearning\classAndMethod\obj\Debug\net9.0\classAndMethod.sourcelink.json
+D:\dotnetLearning\classAndMethod\bin\Debug\net9.0\classAndMethod.exe
+D:\dotnetLearning\classAndMethod\bin\Debug\net9.0\classAndMethod.deps.json
+D:\dotnetLearning\classAndMethod\bin\Debug\net9.0\classAndMethod.runtimeconfig.json
+D:\dotnetLearning\classAndMethod\bin\Debug\net9.0\classAndMethod.dll
+D:\dotnetLearning\classAndMethod\bin\Debug\net9.0\classAndMethod.pdb
+D:\dotnetLearning\classAndMethod\obj\Debug\net9.0\classAndMethod.dll
+D:\dotnetLearning\classAndMethod\obj\Debug\net9.0\refint\classAndMethod.dll
+D:\dotnetLearning\classAndMethod\obj\Debug\net9.0\classAndMethod.pdb
+D:\dotnetLearning\classAndMethod\obj\Debug\net9.0\classAndMethod.genruntimeconfig.cache
+D:\dotnetLearning\classAndMethod\obj\Debug\net9.0\ref\classAndMethod.dll

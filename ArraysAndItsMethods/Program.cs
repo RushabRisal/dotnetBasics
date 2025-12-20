@@ -10,6 +10,7 @@
 // Console.WriteLine(fraudulantOrderIds.Length);
 // //initializing the string array...
 // // string[] name = {"rushab","nishan","anish"}; //this is old, we can use collection expression
+using classAndmethod;
 string[] firstName =["rushab","nishan","anish","manish"];
 Console.WriteLine(firstName);
 Console.WriteLine(firstName.Length);
@@ -48,3 +49,7 @@ Console.WriteLine(value.Count);
 value.Clear();
 Console.WriteLine(value.Count);
 Console.WriteLine(value);
+Student student = new();
+student.SetUser("NishanPaudel","Paudel@#123");
+student.SetStudentId(12);
+student.DisplayStudent();

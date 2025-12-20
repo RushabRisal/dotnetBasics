@@ -1,0 +1,14 @@
+D:\dotnetLearning\Calculator\BasicCalculator\bin\Debug\net9.0\BasicCalculator.exe
+D:\dotnetLearning\Calculator\BasicCalculator\bin\Debug\net9.0\BasicCalculator.deps.json
+D:\dotnetLearning\Calculator\BasicCalculator\bin\Debug\net9.0\BasicCalculator.runtimeconfig.json
+D:\dotnetLearning\Calculator\BasicCalculator\bin\Debug\net9.0\BasicCalculator.dll
+D:\dotnetLearning\Calculator\BasicCalculator\bin\Debug\net9.0\BasicCalculator.pdb
+D:\dotnetLearning\Calculator\BasicCalculator\obj\Debug\net9.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetLearning\Calculator\BasicCalculator\obj\Debug\net9.0\BasicCalculator.AssemblyInfoInputs.cache
+D:\dotnetLearning\Calculator\BasicCalculator\obj\Debug\net9.0\BasicCalculator.AssemblyInfo.cs
+D:\dotnetLearning\Calculator\BasicCalculator\obj\Debug\net9.0\BasicCalculator.csproj.CoreCompileInputs.cache
+D:\dotnetLearning\Calculator\BasicCalculator\obj\Debug\net9.0\BasicCalculator.dll
+D:\dotnetLearning\Calculator\BasicCalculator\obj\Debug\net9.0\refint\BasicCalculator.dll
+D:\dotnetLearning\Calculator\BasicCalculator\obj\Debug\net9.0\BasicCalculator.pdb
+D:\dotnetLearning\Calculator\BasicCalculator\obj\Debug\net9.0\BasicCalculator.genruntimeconfig.cache
+D:\dotnetLearning\Calculator\BasicCalculator\obj\Debug\net9.0\ref\BasicCalculator.dll

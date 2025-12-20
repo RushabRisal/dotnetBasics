@@ -13,3 +13,10 @@ D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\refint\ArraysAndItsMethod
 D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ArraysAndItsMethods.pdb
 D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ArraysAndItsMethods.genruntimeconfig.cache
 D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ref\ArraysAndItsMethods.dll
+D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ArraysAndItsMethods.csproj.AssemblyReference.cache
+D:\dotnetLearning\ArraysAndItsMethods\bin\Debug\net9.0\classAndMethod.deps.json
+D:\dotnetLearning\ArraysAndItsMethods\bin\Debug\net9.0\classAndMethod.runtimeconfig.json
+D:\dotnetLearning\ArraysAndItsMethods\bin\Debug\net9.0\classAndMethod.exe
+D:\dotnetLearning\ArraysAndItsMethods\bin\Debug\net9.0\classAndMethod.dll
+D:\dotnetLearning\ArraysAndItsMethods\bin\Debug\net9.0\classAndMethod.pdb
+D:\dotnetLearning\ArraysAndItsMethods\obj\Debug\net9.0\ArraysAn.C344F6D1.Up2Date
