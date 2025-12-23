@@ -54,4 +54,9 @@ if(daysUntilExpiration <= 11)
         Console.WriteLine();
 }
 
-  
+string? msg = null;
+var original = msg;
+msg = "hello";
+Console.WriteLine(msg);
+Console.WriteLine(original.Length);
+

@@ -1,0 +1,15 @@
+D:\dotnetLearning\ReferenceTypes\bin\Debug\net9.0\ReferenceTypes.exe
+D:\dotnetLearning\ReferenceTypes\bin\Debug\net9.0\ReferenceTypes.deps.json
+D:\dotnetLearning\ReferenceTypes\bin\Debug\net9.0\ReferenceTypes.runtimeconfig.json
+D:\dotnetLearning\ReferenceTypes\bin\Debug\net9.0\ReferenceTypes.dll
+D:\dotnetLearning\ReferenceTypes\bin\Debug\net9.0\ReferenceTypes.pdb
+D:\dotnetLearning\ReferenceTypes\obj\Debug\net9.0\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetLearning\ReferenceTypes\obj\Debug\net9.0\ReferenceTypes.AssemblyInfoInputs.cache
+D:\dotnetLearning\ReferenceTypes\obj\Debug\net9.0\ReferenceTypes.AssemblyInfo.cs
+D:\dotnetLearning\ReferenceTypes\obj\Debug\net9.0\ReferenceTypes.csproj.CoreCompileInputs.cache
+D:\dotnetLearning\ReferenceTypes\obj\Debug\net9.0\ReferenceTypes.sourcelink.json
+D:\dotnetLearning\ReferenceTypes\obj\Debug\net9.0\ReferenceTypes.dll
+D:\dotnetLearning\ReferenceTypes\obj\Debug\net9.0\refint\ReferenceTypes.dll
+D:\dotnetLearning\ReferenceTypes\obj\Debug\net9.0\ReferenceTypes.pdb
+D:\dotnetLearning\ReferenceTypes\obj\Debug\net9.0\ReferenceTypes.genruntimeconfig.cache
+D:\dotnetLearning\ReferenceTypes\obj\Debug\net9.0\ref\ReferenceTypes.dll

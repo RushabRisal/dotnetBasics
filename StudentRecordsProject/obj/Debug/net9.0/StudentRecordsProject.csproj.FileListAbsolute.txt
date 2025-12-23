@@ -1,0 +1,15 @@
+D:\dotnetLearning\StudentRecordsProject\bin\Debug\net9.0\StudentRecordsProject.exe
+D:\dotnetLearning\StudentRecordsProject\bin\Debug\net9.0\StudentRecordsProject.deps.json
+D:\dotnetLearning\StudentRecordsProject\bin\Debug\net9.0\StudentRecordsProject.runtimeconfig.json
+D:\dotnetLearning\StudentRecordsProject\bin\Debug\net9.0\StudentRecordsProject.dll
+D:\dotnetLearning\StudentRecordsProject\bin\Debug\net9.0\StudentRecordsProject.pdb
+D:\dotnetLearning\StudentRecordsProject\obj\Debug\net9.0\StudentRecordsProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetLearning\StudentRecordsProject\obj\Debug\net9.0\StudentRecordsProject.AssemblyInfoInputs.cache
+D:\dotnetLearning\StudentRecordsProject\obj\Debug\net9.0\StudentRecordsProject.AssemblyInfo.cs
+D:\dotnetLearning\StudentRecordsProject\obj\Debug\net9.0\StudentRecordsProject.csproj.CoreCompileInputs.cache
+D:\dotnetLearning\StudentRecordsProject\obj\Debug\net9.0\StudentRecordsProject.sourcelink.json
+D:\dotnetLearning\StudentRecordsProject\obj\Debug\net9.0\StudentRecordsProject.dll
+D:\dotnetLearning\StudentRecordsProject\obj\Debug\net9.0\refint\StudentRecordsProject.dll
+D:\dotnetLearning\StudentRecordsProject\obj\Debug\net9.0\StudentRecordsProject.pdb
+D:\dotnetLearning\StudentRecordsProject\obj\Debug\net9.0\StudentRecordsProject.genruntimeconfig.cache
+D:\dotnetLearning\StudentRecordsProject\obj\Debug\net9.0\ref\StudentRecordsProject.dll
