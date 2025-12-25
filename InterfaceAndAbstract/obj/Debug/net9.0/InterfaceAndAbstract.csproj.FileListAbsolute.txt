@@ -1,0 +1,15 @@
+D:\dotnetLearning\InterfaceAndAbstract\bin\Debug\net9.0\InterfaceAndAbstract.exe
+D:\dotnetLearning\InterfaceAndAbstract\bin\Debug\net9.0\InterfaceAndAbstract.deps.json
+D:\dotnetLearning\InterfaceAndAbstract\bin\Debug\net9.0\InterfaceAndAbstract.runtimeconfig.json
+D:\dotnetLearning\InterfaceAndAbstract\bin\Debug\net9.0\InterfaceAndAbstract.dll
+D:\dotnetLearning\InterfaceAndAbstract\bin\Debug\net9.0\InterfaceAndAbstract.pdb
+D:\dotnetLearning\InterfaceAndAbstract\obj\Debug\net9.0\InterfaceAndAbstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetLearning\InterfaceAndAbstract\obj\Debug\net9.0\InterfaceAndAbstract.AssemblyInfoInputs.cache
+D:\dotnetLearning\InterfaceAndAbstract\obj\Debug\net9.0\InterfaceAndAbstract.AssemblyInfo.cs
+D:\dotnetLearning\InterfaceAndAbstract\obj\Debug\net9.0\InterfaceAndAbstract.csproj.CoreCompileInputs.cache
+D:\dotnetLearning\InterfaceAndAbstract\obj\Debug\net9.0\InterfaceAndAbstract.sourcelink.json
+D:\dotnetLearning\InterfaceAndAbstract\obj\Debug\net9.0\InterfaceAndAbstract.dll
+D:\dotnetLearning\InterfaceAndAbstract\obj\Debug\net9.0\refint\InterfaceAndAbstract.dll
+D:\dotnetLearning\InterfaceAndAbstract\obj\Debug\net9.0\InterfaceAndAbstract.pdb
+D:\dotnetLearning\InterfaceAndAbstract\obj\Debug\net9.0\InterfaceAndAbstract.genruntimeconfig.cache
+D:\dotnetLearning\InterfaceAndAbstract\obj\Debug\net9.0\ref\InterfaceAndAbstract.dll
